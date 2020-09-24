@@ -1,0 +1,5 @@
+Highest Scoring Player:
+ X position: 40 
+ Y Position: 20 
+ name: Sally
+ score: 1000
